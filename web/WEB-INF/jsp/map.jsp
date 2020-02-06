@@ -172,7 +172,7 @@
 
             </script>
 
-            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhSS8DRRGPseUed7KQZtv2nrZueQz35GU&callback=initMap&libraries=visualization" async defer></script>
+            <script src="https://maps.googleapis.com/maps/api/js?key="API_KEY"&callback=initMap&libraries=visualization" async defer></script>
 
 
 
